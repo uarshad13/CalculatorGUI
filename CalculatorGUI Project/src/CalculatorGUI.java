@@ -88,10 +88,6 @@ public class CalculatorGUI implements ActionListener {
 		frame.add(display);
 		frame.setVisible(true);
 	}
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new CalculatorGUI();
